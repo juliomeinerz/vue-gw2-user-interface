@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gw2-user-interface
 
 > A Vue.js project
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-gw2-user-interface
+>>>>>>> 9ec08a6785391f2841e7ffb924802c5d76ffcf1c
